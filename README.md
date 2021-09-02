@@ -1,4 +1,4 @@
-# Karadeniz Teknik Üniveristesi OF Teknoloji Fakültesi Elektronik ve Haberleşme Mühenndisliği Kulübü
+# Karadeniz Teknik Üniveristesi OF Teknoloji Fakültesi Elektronik ve Haberleşme Mühendisliği Kulübü
 
 ## Bu dökümantasyon  bölüm öğrencilerine bir yol haritası olması amacıyla hazırlanmıştır.Kaynaklar  açık erişime sahiptir.  Olmayan ders notları için veya  ek olarak katkıda bulunmak isteyen arkadaşlar ktu.ehk@gmail.com adresinden iletişime geçebilirler.  
 
